@@ -37,7 +37,43 @@ The objective of this project is to practice and demonstrate SQL skills by solvi
 - Match customers and salespeople by city
 - Count orders handled by each salesperson
 - Find customers with the same ratings
-- Analyze customer and sales performance
+- Analyze customer and sales performance## Project Highlights
+
+## Project Highlights
+
+### 1. Multi-Table Join Analysis
+
+![Multi Table Join](screenshots/multi_table_join.png)
+
+---
+
+### 2. Customers with Above-Average Orders
+
+![Above Average Orders](screenshots/above_average_orders.png)
+
+---
+
+### 3. Largest Order by Salesperson
+
+![Largest Order](screenshots/largest_order_by_salesperson.png)
+
+---
+
+### 4. High-Commission Salespeople Serving Customers
+
+![High Commission Salespeople](screenshots/high_commission_salespeople.png)
+
+---
+
+### 5. Salesperson-Customer Relationship Mapping
+
+![Salesperson Customer Mapping](screenshots/salesperson_customer_mapping.png)
+
+---
+
+### 6. Correlated Subquery Analysis
+
+![Correlated Subquery](screenshots/correlated_subquery.png)
 
 
 ## Tools Used
