@@ -32,6 +32,11 @@ This project demonstrates SQL-based analysis on a sales database containing Cust
 - Find customers with the same ratings
 - Analyze customer and sales performance## Project Highlights
 
+## Documentation
+
+- [Database Schema](docs/database_schema.md)
+- [Business Questions Solved](docs/business_questions.md)
+
 ## Project Highlights
 
 ### 1. Multi-Table Join Analysis
