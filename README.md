@@ -10,8 +10,28 @@ This project contains SQL queries performed on a Sales Database consisting of:
 
 The objective of this project is to practice and demonstrate SQL skills by solving business-oriented questions related to customers, orders, sales performance, and salespeople.
 
+## Database Schema
+Salespeople
+- SNUM
+- SNAME
+- CITY
+- COMM
 
-## SQL Concepts Used
+Customers
+- CNUM
+- CNAME
+- CITY
+- RATING
+- SNUM
+
+Orders
+- ONUM
+- AMOUNT
+- ODATE
+- CNUM
+- SNUM
+
+## Key SQL Skills Demonstrated
 
 - SELECT Statements
 - WHERE Clause
