@@ -1,15 +1,8 @@
-# Sales & Customer Analytics using SQL
+# Sales & Customer Analytics using Oracle SQL
 
-## Project Overview
+## Overview
 
-This project contains SQL queries performed on a Sales Database consisting of:
-
-- Customers Table
-- Orders Table
-- Salespeople Table
-
-The objective of this project is to practice and demonstrate SQL skills by solving business-oriented questions related to customers, orders, sales performance, and salespeople.
-
+This project demonstrates SQL-based analysis on a sales database containing Customers, Orders, and Salespeople tables. The project focuses on solving business-oriented problems using joins, subqueries, correlated subqueries, aggregations, and relationship analysis.
 
 ## Key SQL Skills Demonstrated
 
